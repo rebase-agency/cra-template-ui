@@ -1,6 +1,6 @@
-# @rebase-agency/cra-template-storybook
+# @rebase-agency/cra-template-ui
 
-![version](https://img.shields.io/npm/v/@rebase-agency/cra-template-storybook)
+![version](https://img.shields.io/npm/v/@rebase-agency/cra-template-ui)
 
 A starting custom UI library template with Storybook and Rollup
 
@@ -9,13 +9,13 @@ A starting custom UI library template with Storybook and Rollup
 When creating a new react-project, run the following command:
 
 ```shell
-yarn create react-app %PROJECT_NAME% --template @rebase-agency/storybook
+yarn create react-app %PROJECT_NAME% --template @rebase-agency/ui
 ```
 
 Or
 
 ```shell
-npx create-react-app %PROJECT_NAME% --template @rebase-agency/storybook
+npx create-react-app %PROJECT_NAME% --template @rebase-agency/ui
 ```
 
 Then

@@ -1,8 +1,8 @@
 {
-  "name": "@rebase-agency/cra-template-storybook",
+  "name": "@rebase-agency/cra-template-ui",
   "version": "1.0.0",
   "author": "rebase",
-  "description": "The storybook template for Create React App.",
+  "description": "The UI template for Create React App.",
   "keywords": [
     "react",
     "create-react-app",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rebase-agency/cra-template-storybook"
+    "url": "https://github.com/rebase-agency/cra-template-ui"
   },
-  "homepage": "https://github.com/rebase-agency/cra-template-storybook",
+  "homepage": "https://github.com/rebase-agency/cra-template-ui",
   "license": "MIT",
   "engines": {
     "node": ">=16"

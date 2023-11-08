@@ -26,6 +26,7 @@ yarn storybook
 ```
 
 For build your UI package run
+
 ```shell
 yarn rollup-build
 ```
@@ -33,5 +34,5 @@ yarn rollup-build
 Your package will build in `dist` folder.
 
 ## Features
-- Storybook with autodocs and theme
+- Storybook with autodocs and start config theme
 - Rollup with ready configuration

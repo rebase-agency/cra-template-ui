@@ -2,7 +2,7 @@
   "name": "@rebase-agency/cra-template-ui",
   "version": "1.0.0",
   "author": "rebase",
-  "description": "The UI template for Create React App.",
+  "description": "The UI library template for Create React App.",
   "keywords": [
     "react",
     "create-react-app",

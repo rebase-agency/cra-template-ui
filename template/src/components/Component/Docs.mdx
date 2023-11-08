@@ -1,0 +1,11 @@
+import { Canvas, Controls, Markdown, Meta } from "@storybook/blocks";
+import usage from "./README.md?raw";
+import * as Stories from "./Component.stories";
+
+<Meta of={Stories} />
+
+<Markdown>{usage}</Markdown>
+<Canvas />
+
+## Props
+<Controls />

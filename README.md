@@ -1,6 +1,6 @@
 # @rebase-agency/cra-template-ui
 
-![version](https://img.shields.io/npm/v/@rebase-agency/cra-template-ui)
+![version](https://img.shields.io/npm/v/@rebase-agency/cra-template-ui) [![License](https://img.shields.io/npm/l/express.svg)](https://github.com/rebase-agency/cra-template-ui/blob/master/LICENSE)
 
 A starting custom UI library template with Storybook and Rollup
 
